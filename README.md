@@ -12,9 +12,9 @@ You can either **build it yourself**, or **order one via Instagram: _TiagTiag43_
 ---
 
 # **Top:**
-https://github.com/Tiag-Tiag/IRLD020_For_Speeduino/blob/main/Top.png?raw=true
+<img src="https://github.com/Tiag-Tiag/IRLD020_For_Speeduino/blob/main/Top.png" width="400">
 
 # **Bottom:**
-https://github.com/Tiag-Tiag/IRLD020_For_Speeduino/blob/main/Botom.png?raw=true
+<img src="https://github.com/Tiag-Tiag/IRLD020_For_Speeduino/blob/main/Botom.png" width="400">
 
 </div>
