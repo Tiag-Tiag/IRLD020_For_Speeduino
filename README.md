@@ -18,3 +18,9 @@ You can either **build it yourself**, or **order one via Instagram: _TiagTiag43_
 <img src="https://github.com/Tiag-Tiag/IRLD020_For_Speeduino/blob/main/Image/Botom.png" width="700">
 
 </div>
+
+
+<div align="center">
+  <sub>Designed by</sub><br>
+  https://github.com/Tiag-Tiag/image/blob/main/tranparent.png
+</div>
