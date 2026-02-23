@@ -22,5 +22,5 @@ You can either **build it yourself**, or **order one via Instagram: _TiagTiag43_
 
 <div align="center">
   <sub>Designed by</sub><br>
-  https://github.com/Tiag-Tiag/image/blob/main/tranparent.png
+  <img src="https://github.com/Tiag-Tiag/image/blob/main/tranparent.png" width="350"> 
 </div>
